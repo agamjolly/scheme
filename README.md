@@ -11,5 +11,5 @@ You can run the interpreter in your own CLI/terminal by executing the Python fil
 python3 scheme.py
 ```
 
-## Web-based Client
+## Interactive Web Client
 Coming soon! :)
