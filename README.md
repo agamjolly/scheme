@@ -11,5 +11,8 @@ You can run the interpreter in your own CLI/terminal by executing the Python fil
 python3 scheme.py
 ```
 
+## Contributing
+If you find any bugs in the program, or if you have plans to expand the capabilities of the interpreter, feel free to contribute!
+
 ## Interactive Web Client
 Coming soon! :)
