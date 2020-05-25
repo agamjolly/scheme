@@ -1,4 +1,4 @@
-# Scheme Interpreter
+# 💻Scheme Interpreter
 An interpreter for Scheme (Lisp) written in Python. Implemented REPL and evaluator for common Scheme expressions using class-based models. 
 
 ## Error Handling
